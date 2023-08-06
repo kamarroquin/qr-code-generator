@@ -18,6 +18,10 @@
 
 ## Explora Más
 
-Si deseas probar la aplicación en línea, visita la [versión en vivo](enlace-a-la-pagina-en-vivo) y comienza a generar tus propios códigos QR de inmediato.
+Si deseas probar la aplicación en línea, visita la [versión en vivo](https://kamarroquin.github.io/qr-code-generator/) y comienza a generar tus propios códigos QR de inmediato.
 
 
+## Créditos
+
+Este proyecto fue inspirado por el video tutorial [How To Make QR Code Generator Website Using HTML CSS And JavaScript](https://www.youtube.com/watch?v=g1j9rR-H1lk&t=534s&ab_channel=GreatStack) 
+Agradecemos su contribución a la comunidad y utilizamos su guía como base para desarrollar esta aplicación de lista de tareas.
